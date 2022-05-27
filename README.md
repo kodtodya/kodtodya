@@ -2,7 +2,7 @@
 Hi 👋 My name is Avadhut
 =========================
 
-Java, Integration and Backend Engineer
+Investor | Middleware Integration Consultation, Architecture Design & Corporate Training
 ---------------------------------------
 I'm a software development engineer. Interested in Solving problems faced during integrating Large Scale distributed systems, Concurrent programming & Designing low latency Systems. Currently working on distributed systems and Real time data streaming and processing. Have good hands-on with Java, Spring, Spring Boot and Apache Camel. I love Linux Kernel-based OSs Ubuntu, Kali Linux, Parrot OS, and Fedora. I'm an open-source enthusiast and contributor.
 
@@ -11,9 +11,8 @@ I'm a software development engineer. Interested in Solving problems faced during
 - 🔭 I’m currently working on : Java, Spring, Spring Boot, Apache Camel, Shell Script, PostgreSQL
 - 🌱 I’m currently learning : AWS, Jenkins
 - 👯 I’m looking to collaborate on : Java projects
-- 📫 How to reach me : kodtodya.github.io
-- 📫 My second account : https://github.com/kodtodya
-- 📫 My Portfolio : https://kodtodya.github.io/
+- 📫 How to reach me : [kodtodya.github.io](https://kodtodya.github.io/)
+- 📫 My Portfolio : https://github.com/kodtodya
 - ⚡ Fun fact : I'm secretly Spiderman ... but don't tell anyone
 
 ## Stack I work with
@@ -73,6 +72,8 @@ I'm a software development engineer. Interested in Solving problems faced during
 ## Social Media Handles
 [![Github](https://img.shields.io/github/followers/kodtodya?label=Follow&style=social)](https://github.com/kodtodya)
 [![Linkedin](https://img.shields.io/badge/-kodtodya-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/kodtodya/)
+[![Twitter](https://img.shields.io/twitter/follow/kodtodya?style=social&logo=twitter&logoColor=white&link=)](https://www.twitter.com/kodtodya/)
+[![kodtodya-website](https://img.shields.io/badge/kodtodya-website-orange)](https://kodtodya.github.io/)
 [![Mail](https://img.shields.io/badge/-kodtodya.talks@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:kodtodya.talks@gmail.com)
 
 ## Profile Visits
