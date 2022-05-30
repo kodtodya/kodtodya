@@ -13,7 +13,7 @@ I'm a software development engineer. Interested in Solving problems faced during
 - 👯 I’m looking to collaborate on : Java projects
 - 📫 How to reach me : [kodtodya.github.io](https://kodtodya.github.io/)
 - 📫 My Portfolio : https://github.com/kodtodya
-- ⚡ Fun fact : I'm secretly Spiderman ... but don't tell anyone
+- ⚡ Fun fact : I like Spiderman ... but don't tell anyone
 
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
