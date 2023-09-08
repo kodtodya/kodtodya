@@ -8,12 +8,12 @@ I'm a software development engineer. Interested in Solving problems faced during
 
 ### Here is what I am working on 👋
 - 🌍 I'm based in Pune, India
-- 🔭 I’m currently working on : Java, Spring, Spring Boot, Apache Camel, Shell Script, PostgreSQL
-- 🌱 I’m currently learning : AWS, Jenkins
+- 🔭 I’m currently working on : Java, Spring, Spring Boot, Apache Camel, Shell Script, PostgreSQL, Docker and many more things.
+- 🌱 I’m currently learning : System Designs
 - 👯 I’m looking to collaborate on : Java projects
 - 📫 How to reach me : [kodtodya.github.io](https://kodtodya.github.io/)
 - 📫 My Portfolio : https://github.com/kodtodya
-- ⚡ Fun fact : I like Spiderman ... but don't tell anyone
+- ⚡ Fun fact : You know, who I'm!! 😜
 
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
