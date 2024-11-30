@@ -5,10 +5,8 @@
 
 I'm a software development engineer. Interested in Solving problems faced during integrating Large Scale distributed systems, Concurrent programming & Designing low latency Systems. Currently working on distributed systems and Real time data streaming and processing. Have good hands-on with Java, Spring, Spring Boot and Apache Camel. I love Linux Kernel-based OSs Ubuntu, Kali Linux, Parrot OS, and Fedora. I'm an open-source enthusiast and contributor.
 
+<h3>Here is what I am working on 👋</h3>
 <table border="0px">
-   <tr>
-     <td colspan="2"><h3>Here is what I am working on 👋</h3></td>
-   </tr>
    <tr>
     <td width="50%">
 
