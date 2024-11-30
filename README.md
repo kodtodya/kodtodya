@@ -24,6 +24,7 @@ I'm a software development engineer. Interested in Solving problems faced during
   </table>
 
 ## Stack I work with
+<code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"/></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
