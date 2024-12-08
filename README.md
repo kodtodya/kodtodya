@@ -5,23 +5,17 @@
 
 I'm a software development engineer. Interested in Solving problems faced during integrating Large Scale distributed systems, Concurrent programming & Designing low latency Systems. Currently working on distributed systems and Real time data streaming and processing. Have good hands-on with Java, Spring, Spring Boot and Apache Camel. I love Linux Kernel-based OSs Ubuntu, Kali Linux, Parrot OS, and Fedora. I'm an open-source enthusiast and contributor.
 
+<img align="right" alt="Coding" width="500" src="https://github.com/kodtodya/kodtodya/blob/main/programmer-transparent.png">
 <h3>Here is what I am working on 👋</h3>
-<table border="0px">
-   <tr>
-    <td width="50%">
 
-  - 🌍 I'm based in Pune, India
-  - 🔭 I’m currently working on : GoLang, Java, Spring, Spring Boot, Apache Camel, Shell Script, PostgreSQL, Docker and many more things.
-  - 🌱 I’m currently learning : System Designs
-  - 👯 I’m looking to collaborate on : Java projects
-  - 📢 I ❤️ teaching the concepts.
-  - 📧 How to reach me : [kodtodya.github.io](https://kodtodya.github.io/)
-  - 📫 My Portfolio : https://github.com/kodtodya
-  - ⚡ Fun fact : You know, who I'm!! 😜
-   </td>
-    <td align="right"><img src="https://github.com/kodtodya/kodtodya/blob/main/codeGif.gif" width="80%" height="30%"/></td>
-   </tr>
-  </table>
+- 🌍 I'm based in Pune, India
+- 🔭 I’m currently working on : GoLang, Java, Spring, Spring Boot, Apache Camel, Shell Script, PostgreSQL, Docker and many more things.
+- 🌱 I’m currently learning : System Designs
+- 👯 I’m looking to collaborate on : Java projects
+- 📢 I ❤️ teaching the concepts.
+- 📧 How to reach me : [kodtodya.github.io](https://kodtodya.github.io/)
+- 📫 My Portfolio : https://github.com/kodtodya
+- ⚡ Fun fact : You know, who I'm!! 😜
 
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"/></code>
